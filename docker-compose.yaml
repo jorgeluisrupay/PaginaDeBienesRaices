@@ -1,6 +1,6 @@
 version: '3.8'
 services:
   bienes:
-    build: ./Dockerfile
+    build: ./
     ports:
       - '80:80'
