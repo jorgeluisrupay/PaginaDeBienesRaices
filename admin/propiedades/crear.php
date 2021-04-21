@@ -102,7 +102,7 @@
             /** Subida de archivos **/
 
             //Crear una carpeta
-            $carpetaImagenes = '../../imagenes';
+            $carpetaImagenes = '/var/www/html/imagenes';
             //si no existe la carpeta se cre una
             if(!is_dir($carpetaImagenes)){
                 mkdir($carpetaImagenes);
