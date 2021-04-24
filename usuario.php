@@ -4,8 +4,8 @@ require 'includes/config/database.php';
 $db = conectarBD();
 
 //Crear un email y password
-$email = "correo@correo.com";
-$password = "123456";
+$email = "arqui@correo.com";
+$password = "arqui";
 
 //La variable k queres hashear, el otro como lo quieres hacer
 //Los hashes siempre van a tener una extension de 60

@@ -87,7 +87,7 @@
 
             </fieldset>
 
-            <input type="submit" value="Iniciar Sesíon" class="boton boton-verde">;
+            <input type="submit" value="Iniciar Sesíon" class="boton boton-verde">
             </form>
         
     </main>

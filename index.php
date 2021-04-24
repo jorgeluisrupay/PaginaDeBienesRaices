@@ -69,7 +69,7 @@
 
     <div class="contenedor seccion seccion-inferior"> 
         <section class="blog">
-            <h3>Nuestro blog</h3>
+            <h3>Muestras</h3>
 
             <article class="entrada-blog">
                 <div class="imagen">
